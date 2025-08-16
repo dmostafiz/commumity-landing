@@ -391,7 +391,7 @@ export default function AllSections() {
                         <p>
                           <strong>
                             Join The Wealthery Paid Advertising Masterclass’ For
-                            $97
+                            $7
                           </strong>
                         </p>
                       </div>
