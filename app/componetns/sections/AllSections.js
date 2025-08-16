@@ -50,7 +50,7 @@ export default function AllSections() {
                       data-animation-class="animate__animated animate__fadeInUp"
                     >
                       <div>
-                        <h2>Used by Million-Dollar Marketers. Built for Beginners. Yours for $7</h2>
+                        <h2>Turn $7 Into a Lifetime  of Income – Even If You're Starting From Scratch</h2>
                       </div>
                     </div>
                   </div>
@@ -62,7 +62,8 @@ export default function AllSections() {
                     >
                       <div>
                         <h1>
-                          <strong>Turn $7 Into a Lifetime </strong>of Income – Even If You're Starting From Scratch
+                          <strong>This member-led community</strong>  shows you exactly how to make, keep, and grow money using strategies that
+                          work with or without a social media following.
                         </h1>
                       </div>
                     </div>
@@ -77,10 +78,7 @@ export default function AllSections() {
                       data-animation-class="animate__animated animate__fadeInUp"
                     >
                       <div>
-                        <h2>
-                          This member-led community shows you exactly how to make, keep, and grow money using strategies that
-                          work with or without a social media following.
-                        </h2>
+                        <h2>Used by Million-Dollar Marketers. Built for Beginners. Yours for $7</h2>
                       </div>
                     </div>
                   </div>
