@@ -281,7 +281,7 @@ export default function AllSections() {
                         <div>
                           <img
                             style={{}}
-                            src="/images/order-form-thumb.png"
+                            src="/img/1.jpeg"
                             alt=""
                             className="radius0"
                             data-animation-class=""
